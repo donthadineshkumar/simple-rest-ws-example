@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id="1">
+    <name>Dinesh</name>
+    <email>donthadineshkumar@gmail.com</email>
+    <email2>donthadineshkumar.ddk@gmail.com</email2>
+    <salary>2500.45</salary>
+</employee>
